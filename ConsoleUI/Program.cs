@@ -82,13 +82,7 @@ namespace ConsoleUI
             
             
 
-            // Create a list of Vehicle called vehicles - DONE
-
-            /* DONE
-             * Create 4 instances: 1 Car, 1 Motorcycle, and then 2 instances of type Vehicle (use explicit typing) but use constuctors from derived classes
-             *
-             * Set the properties values with object initializer syntax
-             */
+            
 
             /* DONE
              * Add the 4 vehicles to the list
